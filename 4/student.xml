@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<nif>00000000A</nif>
+	<name>Nombre Falso</name>
+	<courses>
+		<course>
+			<title>DAM</title>
+			<level>2</level>
+		</course>
+		<course>
+			<title>DAW</title>
+			<level>1</level>
+		</course>
+	</courses>
+</student>
